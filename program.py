@@ -1,1 +1,1 @@
-print("This is main ditiss-project")
+print("This is master")
